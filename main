@@ -1,0 +1,2 @@
+
+"Enter complex number in format (e.g., 3+2i): "); char sign; scanf_s("%lf%c%lfi", &realPart, &sign, 1, &imaginaryPart); // read r
